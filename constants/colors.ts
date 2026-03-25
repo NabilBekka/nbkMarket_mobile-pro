@@ -1,0 +1,18 @@
+export const colors = {
+  greenDark: "#1E2B1E",
+  greenMid: "#273527",
+  greenLight: "#334D33",
+  accent: "#8BC34A",
+  bgGray: "#F5F7F2",
+  textDark: "#1E2B1E",
+  textGray: "#888888",
+  white: "#ffffff",
+  cardBorder: "#eeeeee",
+  badgeNewBg: "#E8F5E9",
+  badgeNewText: "#2E7D32",
+  badgePendingBg: "#FFF3E0",
+  badgePendingText: "#E65100",
+  badgeDoneBg: "#E3F2FD",
+  badgeDoneText: "#1565C0",
+  danger: "#E53935",
+};
